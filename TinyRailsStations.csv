@@ -1,0 +1,904 @@
+﻿Augusta,USA East,Pig,1
+Concord,USA East,Wood,1
+Des Moines,USA Center,Honey,1
+Dover,USA East,Corn,1
+Edmundston,Canada East,Wheat,1
+Fort Simpson,Canada West,Iron,1
+Fort Stockton,USA South,Strawberry,1
+Frankfort,USA South,Wood,1
+Galesburg,USA Center,Hockey Stick,1
+Harrisburg,USA East,Honey,1
+Iskut,Canada West,Orange,1
+Jefferson City,USA South,Orange,1
+Kennewick,USA West,Cow,1
+Little Rock,USA South,Salmon,1
+Montpelier,USA East,Corn,1
+Rapid City,USA Center,Honey,1
+Richmond,USA East,Oil,1
+The Pas,Canada Center,Firework,1
+Toledo,USA East,Pizza,1
+Whitehorse,Canada West,Apple,1
+Yakutat,Alaska,Orange,1
+Yellowknife,Canada West,Strawberry,1
+Yorkton,Canada Center,Apple,1
+Albany,USA East,Lemon,2
+Billings,USA Center,Carrot,2
+Bismarck,USA Center,Copper,2
+Boise,USA West,Wheat,2
+Charleston,USA East,Salmon,2
+Cheyenne,USA Center,Carrot,2
+Columbia,USA South,BBQ Ribs,2
+El Paso,USA West,Copper,2
+Fort McMurray,Canada West,Water,2
+Fredericton,Canada East,Chicken,2
+Hartford,USA East,Orange,2
+Hazelton,Canada West,Corn,2
+Helena,USA Center,Oil,2
+Huslia,Alaska,BBQ Ribs,2
+Jackson,USA South,Wheat,2
+Kamloops,Canada West,Poutine,2
+Lincoln,USA Center,Pizza,2
+Madison,USA Center,Paper,2
+Montgomery,USA South,Wood,2
+Olympia,USA West,Apple,2
+Pierre,USA Center,Iron,2
+Providence,USA East,Oil,2
+Saint Paul,USA Center,Hockey Stick,2
+Santa Fe,USA West,Iron,2
+Sherbrooke,Canada East,Lemon,2
+Springfield,USA Center,Lemon,2
+Tallahassee,USA South,Paper,2
+Topeka,USA South,Apple,2
+Trenton,USA East,Pig,2
+Tucson,USA West,Micro Processor,2
+White Mountain,Alaska,Pizza,2
+Atlanta,USA South,Firework,3
+Baltimore,USA East,Lemon,3
+Baton Rouge,USA South,Steel,3
+Charlottetown,Canada East,Steel,3
+Denver,USA West,Chicken,3
+Halifax,Canada East,Oil,3
+Indianapolis,USA Center,Wheat,3
+Kingston,Canada East,BBQ Ribs,3
+London,Canada East,Pizza,3
+Miami,USA South,Copper,3
+Oklahoma City,USA South,Chicken,3
+Pittsburgh,USA East,Cow,3
+Raleigh,USA East,Paper,3
+Regina,Canada Center,Pig,3
+Sacramento,USA West,Orange,3
+Saskatoon,Canada Center,Salmon,3
+St. Louis,USA Center,Wood,3
+Winnipeg,Canada Center,Pizza,3
+Wood Buffalo,Canada West,Pig,3
+Detroit,USA East,Corn,4
+Aweil,Africa Center,Banana,1
+Bambari,Africa Center,Uranium,3
+Bamenda,Africa Center,Shapka,2
+Bangui,Africa Center,Casino Chips,1
+Berberati,Africa Center,Coffee Beans,2
+Blantyre,Africa Center,Firework,3
+Brazzaville,Africa Center,Soy Sauce,3
+Bria,Africa Center,Sheep,1
+Bujumbura,Africa Center,Lemon,3
+Bumba,Africa Center,Coffee Beans,2
+Bunia,Africa Center,Firework,3
+Butembo,Africa Center,Sheep,1
+Dar es Salaam,Africa Center,Tomato,3
+Dodoma,Africa Center,Pineapple,3
+Douala,Africa Center,Candle,3
+Franceville,Africa Center,Egg,1
+Gemena,Africa Center,Candle,2
+Gulu,Africa Center,Corn,2
+Impfondo,Africa Center,Cashew,1
+Isiro,Africa Center,Tuna,2
+Juba,Africa Center,Cauliflower,3
+Kabinda,Africa Center,Pineapple,2
+Kalemie,Africa Center,Iron,1
+Kamina,Africa Center,Sunflower,2
+Kampala,Africa Center,Chicken,3
+Kananga,Africa Center,Orange,2
+Kigali,Africa Center,Cow,3
+Kikwit,Africa Center,Anchovy,2
+Kindu,Africa Center,Tomato,2
+Kinshasa,Africa Center,Micro Processor,3
+Kisangani,Africa Center,Wheat,2
+Kolwezi,Africa Center,Banana,2
+Lamberene,Africa Center,Chlorine,1
+Libreville,Africa Center,Trout,3
+Likasi,Africa Center,Cauliflower,2
+Lilongwe,Africa Center,Tuna,3
+Lindi,Africa Center,Wheat,1
+Lubumbashi,Africa Center,Corn,3
+Makambako,Africa Center,Orange,1
+Makokou,Africa Center,Hand Fan,1
+Malabo,Africa Center,Honey,3
+Malakal,Africa Center,Beet,2
+Matadi,Africa Center,Cacao,2
+Mekambo,Africa Center,Origami,1
+Mpanda,Africa Center,Iron,1
+Mwanza,Africa Center,Paper,1
+Mwene-Ditu,Africa Center,Guitar,2
+Mzuzu,Africa Center,Pumpkin,2
+Ngaoundere,Africa Center,Chunk of Amber,2
+Ouesso,Africa Center,Apple,1
+Owando,Africa Center,Chinese Spring Water,1
+Oyala,Africa Center,Valenki,2
+Pointe-Noire,Africa Center,Poutine,1
+Port-Gentil,Africa Center,Power Cable,2
+Sibiti,Africa Center,Pearl,1
+Tchibanga,Africa Center,Lotus Flower,1
+Tshikapa,Africa Center,Pink Salt,2
+Yaounde,Africa Center,Wood,3
+Abeche,Africa East,Rosewood Timber,1
+Abri,Africa East,Coffee Beans,1
+Ad-Damazin,Africa East,Carrot,2
+Addis Ababa,Africa East,Watermelon,3
+Alexandria,Africa East,Russian Building Block,3
+Al-Fashir,Africa East,Polo Mallet,2
+Al-Jawf,Africa East,BBQ Ribs,1
+Am Timan,Africa East,Guava,1
+Arba Minch,Africa East,BBQ Ribs,1
+Aswan,Africa East,Persimmon,2
+Asyut,Africa East,Incense,2
+Awbari,Africa East,Strawberry,1
+Awjilah,Africa East,Copper,1
+Bahur Dar,Africa East,Pig,2
+Baidoa,Africa East,Cotton,2
+Bandarbelya,Africa East,Bonbon,1
+Bardai,Africa East,Sheep,1
+Beledweyne,Africa East,Bamboo,1
+Benghazi,Africa East,Grapes,2
+Berbera,Africa East,Pineapple,2
+Bol,Africa East,Wasabi,1
+Bosaso,Africa East,Pasta,2
+Cairo,Africa East,Aluminum,3
+Dessie,Africa East,Strawberry,2
+Djibouti,Africa East,Wheat,3
+Dongola,Africa East,Camu Camu,1
+El Obeid,Africa East,Cassava,2
+El Qasr,Africa East,Bonbon,2
+Faya-Largeau,Africa East,Silk,1
+Galkayo,Africa East,Russian Perfume,2
+Gambela,Africa East,Honey,2
+Garissa,Africa East,Rosewood Timber,2
+Ghat,Africa East,Honey,1
+Giza,Africa East,Russian Perfume,3
+Hargeisa,Africa East,Aluminum,3
+Hobyo,Africa East,Cooking Oil,1
+Jijiga,Africa East,Sausage,2
+Kassala,Africa East,Copper,2
+Kharga,Africa East,Cooking Oil,1
+Khartoum,Africa East,Asparagus,3
+Kismayo,Africa East,Incense,2
+Kisumu,Africa East,Wasabi,2
+Kitale,Africa East,Mini Lantern,2
+Laascaanood,Africa East,Russian Building Block,1
+Lodwar,Africa East,Acai,1
+Luxor,Africa East,Bamboo,2
+Malindi,Africa East,Orange,2
+Marsa Matruh,Africa East,Firework,2
+Marsabit,Africa East,Avocado,2
+Mek'ele,Africa East,Tomato,2
+Misrata,Africa East,Asparagus,2
+Mogadishu,Africa East,Green Tea,3
+Mombasa,Africa East,Persimmon,3
+Moundou,Africa East,Acai,2
+Murzuq,Africa East,Watermelon,1
+Nairobi,Africa East,Silk,3
+Nayla,Africa East,Chullo Hat,2
+N'Djamena,Africa East,Mini Lantern,3
+Nsharm El-Sheikh,Africa East,Green Tea,1
+Port Said,Africa East,Cotton,2
+Port Sudan,Africa East,Grapes,2
+Sabha,Africa East,Pig,1
+Sarh,Africa East,Avocado,2
+Sasmara,Africa East,Candle,3
+Shahat,Africa East,Hockey Stick,1
+Shashamane,Africa East,Hockey Stick,2
+Shendi,Africa East,Onion,1
+Sirte,Africa East,Carrot,1
+Swia Oasis,Africa East,Pasta,1
+Tobruk,Africa East,Sausage,2
+Tripoli,Africa East,Tuna,3
+Waddan,Africa East,Onion,1
+Wajir,Africa East,Guava,2
+Ambanja,Africa South,Kendama,1
+Ambovombe,Africa South,Sugarcane,2
+Andapa,Africa South,Pear,1
+Antananarivo,Africa South,Qipao,3
+Antsiranana,Africa South,Instant Ramen,1
+Beaufort West,Africa South,Diesel Fuel,1
+Beira,Africa South,Turkey,1
+Bloemfontein,Africa South,Water Chestnut,2
+Bulawayo,Africa South,Pumpkin,3
+Cape Town,Africa South,Flour,3
+Chimoio,Africa South,Chicken,2
+Chinsali,Africa South,Wood,1
+Chipata,Africa South,Uranium,1
+Cuvelai,Africa South,Paper,1
+Durban,Africa South,Kendama,2
+East London,Africa South,Replica Sword,2
+Fianarantsoa,Africa South,Apple,2
+Gaborone,Africa South,Diesel Fuel,1
+George,Africa South,Copper Cable,2
+Gobabis,Africa South,Tea,1
+Gurue,Africa South,Woven Rug,2
+Gweru,Africa South,Paper,2
+Harare,Africa South,Strawberry,3
+Itampolo,Africa South,Zinc Ore,1
+Johannesburg,Africa South,Soy Bean,2
+Kalomo,Africa South,Parka,2
+Kang,Africa South,Soccer Ball,1
+Kaoma,Africa South,Tulip,1
+Katima Mulilo,Africa South,Tea,1
+Keetmanshoop,Africa South,Replica Faberge Egg,1
+Kuito,Africa South,Uranium,2
+Lichinga,Africa South,Alpaca Doll,2
+Lobito,Africa South,Cow,2
+Luanda,Africa South,Apple,3
+Luanshya,Africa South,Lacquer Box,2
+Lucapa,Africa South,Chicken,1
+Luderitz,Africa South,Micro Processor,1
+Lusaka,Africa South,Micro Processor,3
+Mahajanga,Africa South,Water Chestnut,1
+Mahalapye,Africa South,Copper Cable,1
+Mahikeng,Africa South,Qipao,1
+Maintirano,Africa South,Jade,1
+Malanje,Africa South,Beet,2
+Mamoudzou,Africa South,Cotton,3
+Manakara,Africa South,Chai,3
+Mansa,Africa South,Poutine,1
+Maputo,Africa South,Trout,3
+Mariental,Africa South,Tulip,1
+Maseru,Africa South,Pepper,3
+Maun,Africa South,Gasoline Tank,1
+Maxixe,Africa South,Chai,1
+Mbabane,Africa South,Salt,3
+Menongue,Africa South,Pumpkin,1
+Mongu,Africa South,Utility Knife,2
+Morombe,Africa South,Turkey,1
+Moroni,Africa South,Cooking Oil,3
+Mutare,Africa South,Lemon,2
+Nacala,Africa South,Sugarcane,2
+Namibe,Africa South,Lemon,1
+Nampula,Africa South,Zinc Ore,1
+Oshakati,Africa South,Cauliflower,1
+Pemba,Africa South,Soccer Ball,2
+Polokwane,Africa South,Japanese Spring Water,2
+Port Elizabeth,Africa South,Kimono,3
+Port Louis,Africa South,Silk,3
+Quelimane,Africa South,Quinoa,2
+Richards Bay,Africa South,Pear,1
+Rundu,Africa South,Utility Knife,1
+Saint-Denis,Africa South,Egg,3
+Saurimo,Africa South,Wood,1
+Selibe Phikwe,Africa South,Replica Sword,1
+Serowe,Africa South,Kimono,1
+Solwezi,Africa South,Replica Faberge Egg,1
+Tete,Africa South,Cow,2
+Toamasina,Africa South,Soy Bean,2
+Toliara,Africa South,Quinoa,2
+Upington,Africa South,Jade,1
+Vredendal,Africa South,Gzhel,1
+Walvis Bay,Africa South,Poutine,2
+Warmbad,Africa South,Lacquer Box,1
+Windhoek,Africa South,Parka,3
+Abidjan,Africa West,Pizza,3
+Abuja,Africa West,Gasoline Tank,2
+Accra,Africa West,Holy Water,3
+Agadez,Africa West,Pepper,2
+Agadir,Africa West,Peanuts,2
+Al Mahbes,Africa West,Instant Ramen,1
+Algiers,Africa West,Daikon,3
+Annaba,Africa West,Sweet Potato,2
+Ballou,Africa West,Mahogany Timber,1
+Banjul,Africa West,Lead,1
+Barnako,Africa West,Clog,3
+Ben Gardane,Africa West,Apple,1
+Beni Mellal,Africa West,Coal,2
+Bir Anzerane,Africa West,Pocket Game,1
+Bissau,Africa West,Volley Ball,2
+Bobo-Dioulasso,Africa West,Carrot,1
+Boke,Africa West,Cabbage,1
+Bordj Bou,Africa West,Replica Shuriken,2
+Bouarfa,Africa West,Meatball,1
+Boucraa,Africa West,Gasoline Tank,1
+Casablanca,Africa West,Apple,3
+Catio,Africa West,Cricket Bat,1
+Conakry,Africa West,Coal,3
+Constantine,Africa West,Korean Spring Water,2
+Dakar,Africa West,Sweet Potato,3
+Dakhla,Africa West,Daikon,2
+Dehiba,Africa West,Cabbage,1
+El Boma,Africa West,Mahogany Timber,1
+El Hoceima,Africa West,Wool,2
+El Kef,Africa West,Trout,1
+El-Aaiun,Africa West,Zhostovo Tray,2
+Errachidia,Africa West,Holy Water,1
+Essaouira,Africa West,Salmon,1
+Fes,Africa West,Clog,3
+Freetown,Africa West,Oil,2
+Gabes,Africa West,Cricket Bat,2
+Gabu,Africa West,Apple,1
+Gafsa,Africa West,Oil,2
+Guelmim,Africa West,Steel,2
+Guelta Zemmur,Africa West,Water,1
+Jijel,Africa West,Rice,2
+Kankan,Africa West,Asparagus,2
+Kano,Africa West,Flour,3
+Kenema,Africa West,Peanuts,2
+Kumasi,Africa West,Meatball,3
+Lome,Africa West,Copper,1
+Maiduguri,Africa West,Instant Ramen,3
+Mamou,Africa West,Salmon,1
+Marrakesh,Africa West,Cabbage,2
+Monrovia,Africa West,Steel,2
+Nador,Africa West,Steel,2
+Niamey,Africa West,Chopsticks,3
+Nouakchott,Africa West,Rice,2
+Oran,Africa West,Pocket Game,3
+Ouarzazate,Africa West,Matryoshka Doll,1
+Oujda,Africa West,Pizza,2
+Oum Dreyga,Africa West,Chopsticks,1
+Ouragla,Africa West,Papaya,2
+Parakou,Africa West,Zhostovo Tray,2
+Port Harcourt,Africa West,Gasoline Tank,3
+Porto-Novo,Africa West,Samovar,2
+Rabat,Africa West,Oil,2
+Rjim Maatoug,Africa West,Salmon,1
+Saint Louis,Africa West,Korean Spring Water,2
+Samara,Africa West,Watch,3
+San-Pedro,Africa West,Water,1
+Sfax,Africa West,Volley Ball,2
+Sousse,Africa West,Palm Oil,2
+Tamale,Africa West,Matryoshka Doll,2
+Tangier,Africa West,Peanuts,2
+Tantan,Africa West,Water,1
+Tiaret,Africa West,Salt,2
+Tieret,Africa West,Coal,2
+Touba,Africa West,Papaya,2
+Tunis,Africa West,Lead,3
+Yamoussoukro,Africa West,Wool,2
+Zagora,Africa West,Samovar,1
+Ziguinchor,Africa West,Palm Oil,2
+Aktau,Asia Center,Russian Building Block,2
+Aktobe,Asia Center,Water,3
+Almaty,Asia Center,Oil,4
+Ashgabat,Asia Center,Cotton,4
+Astana,Asia Center,Watermelon,3
+Atyrau,Asia Center,Corn,2
+Bishkek,Asia Center,Diesel Fuel,3
+Nukus,Asia Center,Coal,3
+Osh,Asia Center,Wheat,3
+Pavlodar,Asia Center,Coffee Beans,3
+Samarkand,Asia Center,Strawberry,3
+Shymkent,Asia Center,Gasoline Tank,3
+Tashkent,Asia Center,Pineapple,4
+Uralsk,Asia Center,Orange,4
+Ust-Kamenogorsk,Asia Center,Pumpkin,3
+Zhezqazghan,Asia Center,Wood,1
+Busan,Asia East,Chopsticks,4
+Fukuoka,Asia East,Coffee Beans,4
+Hiroshima,Asia East,Replica Shuriken,4
+Kyoto,Asia East,Pocket Game,4
+Nagoya,Asia East,Rice,4
+Okayama,Asia East,Tomato,4
+Okinawa,Asia East,Gasoline Tank,4
+Osaka,Asia East,Carrot,5
+Pyongyang,Asia East,Chopsticks,4
+Sapporo,Asia East,Micro Processor,4
+Sendai,Asia East,Korean Spring Water,4
+Seoul,Asia East,Tulip,4
+Tokyo,Asia East,Chinese Spring Water,5
+Altay,Asia North,Kendama,3
+Bayan Nur,Asia North,Soy Bean,4
+Bayankhongor,Asia North,Soy Sauce,2
+Bayingol,Asia North,Bamboo,4
+Beijing,Asia North,Kimono,5
+Changchun,Asia North,Coffee Beans,4
+Changsha,Asia North,Jade,4
+Chengdu,Asia North,Incense,5
+Choibalsan,Asia North,Japanese Spring Water,2
+Chongqing,Asia North,Chopsticks,5
+Foshan,Asia North,Honey,4
+Guangzhou,Asia North,Pear,5
+Guilin,Asia North,BBQ Ribs,4
+Hangzhou,Asia North,Chicken,5
+Harbin,Asia North,Lotus Flower,5
+Hulun Buir,Asia North,Corn,4
+Jinan,Asia North,Water Chestnut,4
+Kaxgar,Asia North,Origami,3
+Khovd,Asia North,Wood,2
+Kowloon,Asia North,Chicken,4
+Kumul,Asia North,Pocket Game,3
+Kunming,Asia North,Water,4
+Lhasa,Asia North,Egg,3
+Macau,Asia North,Silk,3
+Murun,Asia North,Apple,1
+Nanjing,Asia North,Daikon,4
+Nanning,Asia North,Qipao,4
+Qingdao,Asia North,Persimmon,4
+Shanghai,Asia North,Green Tea,5
+Shenyang,Asia North,Tea,4
+Shenzhen,Asia North,Cauliflower,5
+Shijiazhuang,Asia North,Coal,5
+Taichung City,Asia North,Diesel Fuel,4
+Taipei,Asia North,Mini Lantern,4
+Tianjin,Asia North,Instant Ramen,5
+Tianjun,Asia North,Korean Spring Water,3
+Ulaanbaatar,Asia North,Wasabi,4
+Ulanqab,Asia North,Strawberry,4
+Wuhan,Asia North,Pumpkin,5
+Xiamen,Asia North,Orange,4
+Xi'an,Asia North,Sausage,5
+Xilingol,Asia North,Rice,4
+Yantai,Asia North,Pearl,4
+Zhengzhou,Asia North,Cotton,4
+Camaguey,Caribbean,Tomato,2
+Havana,Caribbean,Steel,3
+Kingston,Caribbean,Firework,4
+Montego Bay,Caribbean,Micro Processor,2
+Ponce,Caribbean,Banana,3
+Port-au-Prince,Caribbean,Wheat,2
+Port-de-Paix,Caribbean,Wood,3
+Punta Cana,Caribbean,Poutine,2
+San Juan,Caribbean,BBQ Ribs,4
+Santa Clara,Caribbean,Strawberry,4
+Santiago de Cuba,Caribbean,Water,3
+Santiago de Los Caballeros,Caribbean,Candle,2
+Santo Domingo,Caribbean,Honey,1
+The Bahamas,Caribbean,Peanuts,5
+Belmopan,Central America,Coffee Beans,1
+Bluefields,Central America,Tomato,1
+Guatemala,Central America,Hockey Stick,5
+La Ceiba,Central America,Sausage,2
+Managua,Central America,Utility Knife,1
+Panama,Central America,Pasta,5
+Puerto Cabezas,Central America,Tomato,2
+San Jose,Central America,Tomato,5
+San Pedro Sula,Central America,Tea,1
+San Salvador,Central America,Banana,1
+Santa Ana,Central America,Apple,1
+Santiago,Central America,Holy Water,1
+Tegucigalpa,Central America,Casino Chips,3
+Bratislava,Europe East,Onion,2
+Bucharest,Europe East,Water,2
+Budapest,Europe East,Cow,3
+Chisinau,Europe East,Onion,1
+Cluj-Napoca,Europe East,Holy Water,2
+Ostrava,Europe East,Sausage,1
+Prague,Europe East,Onion,4
+Sofia,Europe East,Sheep,1
+Timisoara,Europe East,Meatball,2
+Vienna,Europe East,Bonbon,3
+Berlin,Europe North,Parka,5
+Copenhagen,Europe North,Candle,5
+Helsinki,Europe North,Candle,2
+Kiev,Europe North,Bonbon,1
+Minsk,Europe North,Utility Knife,1
+Oslo,Europe North,Utility Knife,4
+Riga,Europe North,Honey,1
+Stockholm,Europe North,Utility Knife,3
+Tallinn,Europe North,Holy Water,1
+Vilnius,Europe North,Utility Knife,2
+Warsaw,Europe North,Tulip,3
+Andorra La Vella,Europe South,Tulip,4
+Athens,Europe South,Meatball,4
+Barcelona,Europe South,Candle,5
+Bilbao,Europe South,Casino Chips,2
+Lisbon,Europe South,Sausage,2
+Ljubljana,Europe South,Sheep,2
+Madrid,Europe South,Casino Chips,4
+Milan,Europe South,Strawberry,5
+Monaco,Europe South,Casino Chips,5
+Naples,Europe South,Pasta,2
+Porto,Europe South,Meatball,3
+Rome,Europe South,Holy Water,1
+San Marino,Europe South,Water,3
+Sarajevo,Europe South,Tulip,2
+Skopje,Europe South,Casino Chips,1
+Tirana,Europe South,Candle,2
+Valleta,Europe South,Bonbon,3
+Zagreb,Europe South,Onion,3
+Amsterdam,Europe West,Tea,4
+Belfast,Europe West,Carrot,2
+Bern,Europe West,Sheep,4
+Brussels,Europe West,Chicken,3
+Cardiff,Europe West,Pasta,3
+Dublin,Europe West,Sausage,4
+Edinburgh,Europe West,Sheep,3
+Galway,Europe West,Strawberry,1
+London,Europe West,Tea,5
+Luxembourg City,Europe West,Pasta,2
+Nantes,Europe West,Sausage,3
+Paris,Europe West,Tulip,5
+Southampton,Europe West,Tea,2
+Vaduz,Europe West,Tea,1
+Zurich,Europe West,Hockey Stick,3
+Acapulco,Mexico,Paper,4
+Cabo San Lucas,Mexico,Tulip,3
+Campeche,Mexico,Meatball,4
+Cancun,Mexico,Pasta,5
+Chetumal,Mexico,Holy Water,2
+Chihuahua,Mexico,Salmon,5
+Ciudad Juarez,Mexico,Poutine,5
+Ciudad Obregon,Mexico,Poutine,3
+Ciudad Victoria,Mexico,Copper,3
+Colima,Mexico,Micro Processor,3
+Culiacan,Mexico,Iron,4
+Durango,Mexico,Onion,5
+Guadalajara,Mexico,Banana,2
+Guasave,Mexico,Peanuts,1
+Hermosillo,Mexico,Copper,4
+La Paz,Mexico,Peanuts,4
+Los Mochis,Mexico,Banana,2
+Mazatlan,Mexico,Steel,4
+Merida,Mexico,Coffee Beans,4
+Mexicali,Mexico,Banana,3
+Mexico City,Mexico,Coffee Beans,5
+Monclova,Mexico,Cow,3
+Monterrey,Mexico,Chicken,5
+Morelia,Mexico,Apple,4
+Oaxaca,Mexico,Sheep,5
+Rosarito,Mexico,Apple,1
+Saltillo,Mexico,Tomato,4
+San Luis Potosi,Mexico,Peanuts,1
+Taxco,Mexico,Candle,1
+Tepic,Mexico,BBQ Ribs,4
+Tijuana,Mexico,Coffee Beans,5
+Tuxtla Gutierrez,Mexico,Hockey Stick,4
+Villahermosa,Mexico,Coffee Beans,3
+Xalapa,Mexico,Carrot,3
+Abu Dhabi,Middle East Lower,Beet,4
+Al-Karak,Middle East Lower,Copper,1
+Amman,Middle East Lower,Woven Rug,4
+Baghdad,Middle East Lower,Sweet Potato,5
+Basra,Middle East Lower,Sugarcane,3
+Doha,Middle East Lower,Soccer Ball,4
+Dubai,Middle East Lower,Casino Chips,3
+Erbil,Middle East Lower,Apple,2
+Jerusalem,Middle East Lower,Iron,4
+Kuwait City,Middle East Lower,Oil,4
+Manama,Middle East Lower,Watermelon,4
+Mecca,Middle East Lower,Asparagus,3
+Medina,Middle East Lower,Trout,3
+Mukalla,Middle East Lower,Grapes,2
+Muscat,Middle East Lower,Beet,5
+Riyadh,Middle East Lower,Apple,4
+Sakakah,Middle East Lower,Salmon,2
+Salalah,Middle East Lower,Water,2
+Sana'a,Middle East Lower,Banana,4
+Aleppo,Middle East Upper,Lime,3
+Ankara,Middle East Upper,Almond,4
+Antalya,Middle East Upper,Green Tea,3
+Baku,Middle East Upper,Diesel Fuel,4
+Batman,Middle East Upper,Chai,2
+Beirut,Middle East Upper,Jackfruit,4
+Damascus,Middle East Upper,Horned Melon,5
+Dushanbe,Middle East Upper,Cacao,4
+Faisalabad,Middle East Upper,Rice,3
+Ganja,Middle East Upper,Woven Rug,2
+Herat,Middle East Upper,Power Cable,3
+Islamabad,Middle East Upper,Pasta,4
+Istanbul,Middle East Upper,Mammee Apple,5
+Kabul,Middle East Upper,Guava,4
+Kayseri,Middle East Upper,Chunk of Amber,2
+Mashhad,Middle East Upper,Vanilla,3
+Nicosia,Middle East Upper,Apple,2
+Raqqa,Middle East Upper,Pocket Game,2
+Shiraz,Middle East Upper,Okra,3
+Tbilisi,Middle East Upper,Miracle Fruit,4
+Teheran,Middle East Upper,Tuna,4
+Yerevan,Middle East Upper,Egg,4
+Auckland,Oceania East,Turkey,4
+Ballarat,Oceania East,BBQ Ribs,2
+Bedourie,Oceania East,Strawberry,2
+Birdsville,Oceania East,Cauliflower,2
+Boulia,Oceania East,Firework,2
+Brisbane,Oceania East,Apple,4
+Cairns,Oceania East,Sausage,3
+Canberra,Oceania East,Cinnamon,5
+Carpentaria,Oceania East,Oil,2
+Charleville,Oceania East,Surf Board,2
+Christchurch,Oceania East,Egg,4
+Dunedin,Oceania East,Pineapple,3
+Gladstone,Oceania East,Vanilla,2
+Hobart,Oceania East,Soy Bean,3
+Honiara,Oceania East,Almond,5
+Jayapura,Oceania East,Wool,3
+Katoomba,Oceania East,Soccer Ball,2
+Kingston,Oceania East,Salt,5
+Launceston,Oceania East,Green Tea,2
+Longreach,Oceania East,Aussie Spring Water,2
+Mackay,Oceania East,Tulip,3
+Mata'utu,Oceania East,Pumpkin,5
+Melbourne,Oceania East,Pineapple,4
+Merauke,Oceania East,Wood,3
+Mildura,Oceania East,Onion,2
+Mount Isa,Oceania East,Pizza,2
+Noumea,Oceania East,Steel,5
+Nuku'alofa,Oceania East,Silk,5
+Pago Pago,Oceania East,Passionfruit,5
+Port Moresby,Oceania East,Mango,5
+Port Vila,Oceania East,Jackfruit,5
+Sorong,Oceania East,Papaya,3
+Suva,Oceania East,Wool,5
+Sydney,Oceania East,Ice Cream,4
+Torquay,Oceania East,Aluminum,2
+Townsville,Oceania East,Pepper,3
+Wagga Wagga,Oceania East,Apple,2
+Warnambool,Oceania East,Orange,2
+Wellington,Oceania East,Lime,5
+Adelaide,Oceania West,Ice Cream,4
+Albany,Oceania West,Cow,2
+Ampilatwatja,Oceania West,Yogurt,2
+Borroloola,Oceania West,Palm Oil,2
+Broome,Oceania West,Sheep,2
+Busselton,Oceania West,Salmon,2
+Carnarvon,Oceania West,Sugarcane,2
+Cervantes,Oceania West,Boomerang,2
+Cocklebiddy,Oceania West,Pear,2
+Coral Bay,Oceania West,Grapes,2
+Darwin,Oceania West,Pocket Game,3
+Derby,Oceania West,Koala Plush,3
+Esperance,Oceania West,Yogurt,2
+Geraldtron,Oceania West,Cashew,2
+Hyden,Oceania West,Anchovy,2
+Kalbarri,Oceania West,Banana,2
+Kalgoorlie,Oceania West,Turkey,2
+Karratha,Oceania West,Lemon,2
+Kununurra,Oceania West,Samoan Spring Water,2
+Marla,Oceania West,Cheddar Cheese,2
+Mataranka,Oceania West,Milk,2
+Newman,Oceania West,Didgeridoo,2
+Perth,Oceania West,Chicken,4
+Port Augusta,Oceania West,Egg,2
+Port Hedland,Oceania West,Passionfruit,2
+Port Lincoln,Oceania West,Milk,2
+Tanami,Oceania West,Surf Board,3
+Warburton,Oceania West,Bamboo,2
+Abakan,Russia East,Valenki,2
+Balgoveshchensk,Russia East,Paper,3
+Barnaul,Russia East,Tulip,3
+Batagay,Russia East,Wheat,1
+Egvekinot,Russia East,Cow,1
+Irkutsk,Russia East,Oil,3
+Kamchatka Krai,Russia East,Coal,3
+Khatanga,Russia East,Uranium,1
+Komsomolsk-on-Amur,Russia East,Hockey Stick,3
+Krasnoyarsk Krai,Russia East,Corn,4
+Magadan,Russia East,Salmon,1
+Mirny,Russia East,Sausage,1
+Neryungri,Russia East,Grapes,1
+Nizhnevartovsk,Russia East,Gasoline Tank,3
+Norilsk,Russia East,Copper Cable,2
+Novokuznetsk,Russia East,Asparagus,3
+Novosibirsk,Russia East,Micro Processor,4
+Novy Urengoy,Russia East,Diesel Fuel,2
+Nyagan,Russia East,Wood,1
+Omsk,Russia East,Sheep,4
+Petropavlovsk-Kamchatsky,Russia East,Orange,2
+Sakhalin,Russia East,Cauliflower,3
+Tyumen,Russia East,Lemon,5
+Ulan-Ude,Russia East,Chlorine,3
+Ust-Nera,Russia East,Aluminum,1
+Vladivostok,Russia East,Salmon,3
+Yakutsk,Russia East,Wood,3
+Yuzhno-Sakhalinsk,Russia East,Chicken,2
+Zyryanka,Russia East,Coal,1
+Arkhangelsk,Russia West,Russian Perfume,3
+Cheboksary,Russia West,Honey,3
+Chelyabinsk,Russia West,Watch,4
+Cherkessk,Russia West,Chunk of Amber,2
+Elista,Russia West,Chicken,2
+Grozny,Russia West,Samovar,3
+Izhevsk,Russia West,Honey,3
+Kazan,Russia West,Uranium,4
+Makhachkala,Russia West,Lacquer Box,3
+Maykop,Russia West,Wood,2
+Moscow,Russia West,Wheat,5
+Murmansk,Russia West,Valenki,3
+Nalchik,Russia West,Candle,3
+Nizhny Novgorod,Russia West,Micro Processor,4
+Oryol Oblast,Russia West,Tea,3
+Penza,Russia West,Tomato,3
+Petrozavodsk,Russia West,Wheat,3
+Rostov-on-Don,Russia West,Cooking Oil,4
+Saint Petersburg,Russia West,Cooking Oil,5
+Samara,Russia West,Onion,4
+Saransk,Russia West,Power Cable,3
+Saratov,Russia West,Shapka,3
+Sochi,Russia West,Apple,3
+Syktyvkar,Russia West,Russian Building Block,3
+Ufa,Russia West,Diesel Fuel,4
+Veliky Novgorod,Russia West,Matryoshka Doll,3
+Vladimir,Russia West,Gzhel,3
+Volgograd,Russia West,Steel,4
+Voronezh,Russia West,Carrot,4
+Yaroslavl,Russia West,Zhostovo Tray,3
+Yekaterinburg,Russia West,Iron,4
+Yoshkar-Ola,Russia West,Copper,3
+Balikpapan,S.E. Asia East,Sausage,2
+Bandar Seri Begawan,S.E. Asia East,Strawberry,1
+Bangkok,S.E. Asia East,Guitar,4
+Bengkulu,S.E. Asia East,Coffee Beans,2
+Chiang Mai,S.E. Asia East,Quinoa,1
+Da Nang,S.E. Asia East,Alpaca Doll,2
+Davao City,S.E. Asia East,Watermelon,2
+Dili,S.E. Asia East,Samovar,1
+Hanoi,S.E. Asia East,Pollock,4
+Ho Chi Minh City,S.E. Asia East,Passionfruit,4
+Jakarta,S.E. Asia East,Peanuts,5
+Krong Siem Reap,S.E. Asia East,Lime,1
+Lao Cai,S.E. Asia East,Lotus Flower,1
+Manado,S.E. Asia East,Sheep,2
+Mandalay,S.E. Asia East,Mini Lantern,2
+Manila,S.E. Asia East,Poutine,2
+Medan,S.E. Asia East,Apple,1
+Naypyidaw,S.E. Asia East,Honey,1
+Padang,S.E. Asia East,Lacquer Box,2
+Phnom Penh,S.E. Asia East,Yogurt,2
+Pontianak,S.E. Asia East,Clog,2
+Savannakhet,S.E. Asia East,Pink Salt,1
+Singapore,S.E. Asia East,Aluminum,4
+Surabaya City,S.E. Asia East,Casino Chips,3
+Vientiane,S.E. Asia East,Mahogany Timber,1
+Yangon,S.E. Asia East,Pocket Game,1
+Ahmedabad,S.E. Asia West,Mammee Apple,4
+Bengaluru,S.E. Asia West,Gasoline Tank,5
+Bhopal,S.E. Asia West,Ice Cream,2
+Chennai,S.E. Asia West,Diesel Fuel,3
+Colombo,S.E. Asia West,Cooking Oil,1
+Dhaka,S.E. Asia West,Chunk of Amber,5
+Hyderabad,S.E. Asia West,Vanilla,4
+Kargil,S.E. Asia West,Miracle Fruit,1
+Kathmandu,S.E. Asia West,Water Chestnut,3
+Kohima,S.E. Asia West,Jade,1
+Kolkata,S.E. Asia West,Steel,3
+Madurai,S.E. Asia West,Palm Oil,2
+Mumbai,S.E. Asia West,Micro Processor,5
+New Delhi,S.E. Asia West,Cricket Bat,5
+Patna,S.E. Asia West,Cashew,3
+Rajkot,S.E. Asia West,Silk,2
+Thimphu,S.E. Asia West,Soy Sauce,1
+Visakhpatnam,S.E. Asia West,Soccer Ball,2
+Araguaina,South America Center,Quinoa,2
+Asuncion,South America Center,Cricket Bat,5
+Barcelos,South America Center,Soy Bean,2
+Belem,South America Center,Flour,4
+Belo Horizonte,South America Center,Sausage,4
+Boa Vista,South America Center,Lead,3
+Brasilia,South America Center,Pink Salt,5
+Cochabamba,South America Center,Woven Rug,4
+Curitiba,South America Center,Grapes,4
+Fortaleza,South America Center,Sugarcane,4
+Goiania,South America Center,Wheat,4
+La Paz,South America Center,Copper,4
+Macapa,South America Center,Aluminum,3
+Manaus,South America Center,Camu Camu,4
+Natal,South America Center,Cow,3
+Porto Alegre,South America Center,Guitar,4
+Porto Velho,South America Center,Tomato,3
+Recife,South America Center,Palm Oil,4
+Riberalta,South America Center,Alpaca Doll,2
+Rio Branco,South America Center,Volley Ball,3
+Rio de Janeiro,South America Center,Cassava,4
+Rio Grande,South America Center,Chullo Hat,5
+Rivera,South America Center,Oil,2
+Salvador,South America Center,BBQ Ribs,4
+Santa Cruz,South America Center,Beet,1
+Santa Maria,South America Center,Apple,3
+Sao Luis,South America Center,Tulip,4
+Sao Paulo,South America Center,Soccer Ball,5
+Sucre,South America Center,Diesel Fuel,5
+Antofagasta,South America Lower,Acai,3
+Bahia Blanca,South America Lower,Chopsticks,3
+Bariloche,South America Lower,Sunflower,3
+Buenos Aires,South America Lower,Pocket Game,4
+Calama,South America Lower,Pizza,3
+Comodoro Rivadavia,South America Lower,Pizza,3
+Concepcion,South America Lower,Meatball,3
+Concordia,South America Lower,Apple,3
+Copiapo,South America Lower,Tea,3
+Coquimbo,South America Lower,Capuacu,3
+Cordoba,South America Lower,Mahogany Timber,4
+Easter Island,South America Lower,Sweet Potato,2
+El Calafete,South America Lower,Turkey,2
+El Salvador,South America Lower,Corn,2
+Iquique,South America Lower,Polo Mallet,3
+Mar Del Plata,South America Lower,Cacao,3
+Mendoza,South America Lower,Jade,4
+Montevideo,South America Lower,Tuna,4
+Neuquen,South America Lower,Guava,3
+Posadas,South America Lower,Anchovy,3
+Puerto Iguazu,South America Lower,Apple,2
+Puerto Madryn,South America Lower,Papaya,2
+Puerto Natales,South America Lower,Asparagus,2
+Punta Arenas,South America Lower,Avocado,3
+Resistencia,South America Lower,Trout,3
+Rio Gallegos,South America Lower,Wool,2
+Rio Grande,South America Lower,Cashew,2
+Rosario,South America Lower,Quinoa,4
+Salta,South America Lower,Salmon,3
+Santa Fe,South America Lower,Chunk of Amber,4
+Santiago,South America Lower,Chai,5
+Stanley,South America Lower,Salmon,4
+Temuco,South America Lower,Sweet Potato,3
+Ushuaia,South America Lower,Apple,2
+Valparaiso,South America Lower,Watermelon,3
+Arequipa,South America Upper,Candle,3
+Barquismeto,South America Upper,Avocado,4
+Barranquilla,South America Upper,Cooking Oil,4
+Bogota,South America Upper,Acai,5
+Bucaramanga,South America Upper,Capuacu,3
+Cali,South America Upper,Chai,4
+Caracas,South America Upper,Sweet Potato,4
+Cartangena,South America Upper,Egg,3
+Cayenne,South America Upper,Diesel Fuel,2
+Chiclayo,South America Upper,Silk,3
+Chimbote,South America Upper,Soy Sauce,3
+Coro,South America Upper,Honey,3
+Cuidad Bolivar,South America Upper,Cashew,3
+Cusco,South America Upper,Mahogany Timber,3
+Georgetown,South America Upper,Papaya,3
+Guayaquil,South America Upper,Cotton,4
+Huancayo,South America Upper,Pear,3
+Iquitos,South America Upper,Bamboo,3
+Juliaca,South America Upper,Salmon,3
+Lima,South America Upper,Green Tea,5
+Linden,South America Upper,Sheep,2
+Maracaibo,South America Upper,Strawberry,4
+Maturin,South America Upper,Iron,3
+Medellin,South America Upper,Corn,4
+Nazca,South America Upper,Corn,2
+Paramaribo,South America Upper,Guava,3
+Port of Spain,South America Upper,Cacao,3
+Pucallpa,South America Upper,Anchovy,3
+Puerto La Cruz,South America Upper,Turkey,3
+Quito,South America Upper,Apple,4
+Tacna,South America Upper,Zinc Ore,3
+Tarapoto,South America Upper,Rosewood Timber,3
+Valencia,South America Upper,Rice,4
+Houston,USA South,Poutine,5
+Toronto,Canada East,Micro Processor,5
+Seattle,USA West,Parka,5
+Montreal,Canada East,Firework,5
+San Francisco,USA West,Micro Processor,5
+Homer,Alaska,Poutine,4
+Ottawa,Canada East,Parka,4
+Point Hope,Alaska,Pig,3
+Anchorage,Alaska,Watermelon,5
+New York,USA East,BBQ Ribs,5
+Calgary,Canada West,Firework,4
+Chignik,Alaska,Pineapple,3
+Philadelphia,USA East,Chicken,5
+Eek,Alaska,Coffee Beans,1
+Naknek,Alaska,Peanuts,1
+Red Devil,Alaska,Cauliflower,1
+Portland,USA West,Poutine,3
+Vancouver,Canada West,Micro Processor,4
+Banff,Canada West,Oil,5
+Los Angeles,USA West,Pizza,5
+Juneau,Alaska,Apple,4
+Barrow,Alaska,Lemon,4
+Nuiqsut,Alaska,Cow,3
+Fairbanks,Alaska,Parka,4
+Las Vegas,USA West,Water,5
+New Orleans,USA South,Corn,5
+Kodiak,Alaska,Strawberry,4
+Hooper Bay,Alaska,Wheat,2
+Fort Yukon,Alaska,Hockey Stick,2
+Dallas,USA South,Pig,4
+Albuquerque,USA West,Iron,4
+Austin,USA South,Pizza,4
+Boston,USA East,Strawberry,4
+Chicago,USA Center,Carrot,4
+Columbus,USA East,Paper,4
+Edmonton,Canada West,Steel,4
+Memphis,USA South,Salmon,4
+Nashville,USA South,Cow,4
+Phoenix,USA West,Lemon,4
+Salt Lake City,USA West,Apple,4
+St. John's,Canada East,Copper,4
+Washington,USA East,Orange,4
