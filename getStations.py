@@ -16,7 +16,7 @@ class Station:
         if(self.region in LOCKED_REGIONS):
             return "lock"
         """
-        if(self.completion < constants.size_data[self.size] or self.level < 3):
+        if(self.completion < constants.size_data[self.size][0] or self.level < 3):
             return "curr"
         return "complete"
   
@@ -32,6 +32,9 @@ def getStations():
         # creating a csv reader object 
         csvreader = csv.reader(csvfile) 
         
+        #skip blank first line
+        next(csvreader)
+
         # extracting each data row one by one 
         for row in csvreader: 
             rows.append(row) 
@@ -45,4 +48,5 @@ def getStations():
            name = name + "_" + stat.region
         stations[name] = stat
 
+    
     return stations
